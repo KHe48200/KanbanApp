@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KanbanApp</string>
+    <string name="action_info">Info</string>
+    <string name="title_activity_project">ProjectActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_text_1">TODO</string>
+    <string name="tab_text_2">DOING</string>
+    <string name="tab_text_3">DONE</string>
+    <string name="title_activity_task">TaskActivity</string>
+    <string name="TODO">TODO</string>
+    <string name="DOING">DOING</string>
+    <string name="DONE">DONE</string>
+</resources>
