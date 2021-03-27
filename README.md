@@ -11,7 +11,7 @@ Kanban boards visually depict work at various stages of a process using cards to
 
 ### Projects
 
-In projects view you can add add new, delete old and select existing projects.
+In projects view you can add add new, delete old and select existing projects.  
 _Note: Press more options icon (three dots on upper right corner) and select "Help" to find instructions for any of the views in the app._
 
 ![Projects view](https://github.com/KHe48200/KanbanApp/blob/main/screenshots/Screenshot_projects.png "Projects")
@@ -26,7 +26,7 @@ When creating a new or editing a existing task ypu can add a name and descriptio
 
 ![Task view](https://github.com/KHe48200/KanbanApp/blob/main/screenshots/Screenshot_individual_task.png "Task")
 
-You can change your task to the next column by pressing the check button (bottom right) when viewing a task.
-_You can also long press the button to bring up a dialog where you can choose the column._
+You can change your task to the next column by pressing the check button (bottom right) when viewing a task.  
+_Note: You can also long press the button to bring up a dialog where you can choose the column._
 
 ![Change column](https://github.com/KHe48200/KanbanApp/blob/main/screenshots/Screenshot_change.png "Change column")
