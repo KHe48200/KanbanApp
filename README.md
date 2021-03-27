@@ -1,11 +1,11 @@
 # KanbanApp
-## Kanban (Japanese: 看板, meaning signboard or billboard). [[1]][1]
+## Kanban (Japanese: 看板, meaning signboard or billboard). [[1]](https://en.wikipedia.org/wiki/Kanban_(development))
 
 This is a simple kanban board in form of an android application.
 
 ![KanbanApp](https://github.com/KHe48200/KanbanApp/blob/main/screenshots/KanbanApp.gif "KanbanApp")
 
-Kanban boards visually depict work at various stages of a process using cards to represent work items and columns to represent each stage of the process. Cards are moved from left to right to show progress and to help coordinate teams performing the work. [[2]][2]
+Kanban boards visually depict work at various stages of a process using cards to represent work items and columns to represent each stage of the process. Cards are moved from left to right to show progress and to help coordinate teams performing the work. [[2]](https://en.wikipedia.org/wiki/Kanban_board)
 
 ## How to use
 
@@ -30,6 +30,3 @@ You can change your task to the next column by pressing the check button (bottom
 _You can also long press the button to bring up a dialog where you can choose the column._
 
 ![Change column](https://github.com/KHe48200/KanbanApp/blob/main/screenshots/Screenshot_change.png "Change column")
-
-[1]: https://en.wikipedia.org/wiki/Kanban_(development)
-[2]: https://en.wikipedia.org/wiki/Kanban_board
